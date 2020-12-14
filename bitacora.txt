@@ -22,3 +22,6 @@
 14	merge Antecedentes --no-ff
 15	merge Antecedentes --no-ff
 16	add + commit
+17	tag FusionTerminada
+18	push
+19	add + commit + push
