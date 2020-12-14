@@ -10,3 +10,8 @@
 2	checkout -b DatosPersonales
 3	--
 4	--
+5	commit + add + push
+6	reset
+7	checkout -b Antecedentes
+8	--
+9	add + commit
