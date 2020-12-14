@@ -10,3 +10,12 @@
 2	checkout -b DatosPersonales
 3	--
 4	--
+5	commit + add 
+6	reset
+7	checkout -b Antecedentes
+8	--
+9	add + commit
+10	checkout Master
+11	push origin DatosPersonales
+12	Podrían hacerse por fast-forward ya que las dos branches contienen el último commit realizado en Master
+13	add + commit
